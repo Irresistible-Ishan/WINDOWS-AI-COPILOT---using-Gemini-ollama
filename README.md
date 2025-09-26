@@ -1,5 +1,4 @@
 # status : On-going
-## original author of this code is me , all the copyrights are as per the license 
 ## year of making : 2023 - NOW
 
 ## FLOW of change in use of multiple AIs in this according the the feasibility and usecase
