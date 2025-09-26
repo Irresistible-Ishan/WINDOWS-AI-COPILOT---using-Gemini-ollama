@@ -1,7 +1,4 @@
-Not to be used for commercial purposes
-Please use your own API KEY 
-the given API key is only for the example showcase
-
+# status : On-going
 ## original author of this code is me , all the copyrights are as per the license 
 ## year of making : 2023 - NOW
 
@@ -12,3 +9,6 @@ the given API key is only for the example showcase
 ### 1. Integration of the ShowUI to fully control Mouse as well 
 ### 2. adding sharper error rectifying systems
 ### 3. Fully automated approach with facial recognition , voice control , and hand gestures 
+
+
+### NOTE : Do not use it for commercial purposes if you are using Gemini API as its against the TOS of the google AI studio 
